@@ -1,6 +1,6 @@
-# Responsible AI Homebuyer Coach
+# Designing a Responsible AI Coach for First-Time Homebuyers
 
-A product-strategy case for an explainable AI coach that helps first-time homebuyers plan savings, compare scenarios, and understand uncertainty without replacing licensed financial advice.
+A product-strategy and governance case for an explainable AI coach that helps first-time homebuyers plan savings, compare scenarios, and understand uncertainty without replacing licensed financial advice.
 
 ## Customer problem
 
