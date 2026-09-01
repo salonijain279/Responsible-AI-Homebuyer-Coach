@@ -1,6 +1,6 @@
 # Designing a Responsible AI Coach for First-Time Homebuyers
 
-I worked on this student case-competition concept to explore what a genuinely responsible AI coach for first-time homebuyers would require. My contribution focused on the product strategy, user journey, model boundaries, risk controls, and evaluation plan—not just the conversational interface.
+This product concept examines what a responsible AI coach for first-time homebuyers would require across the user journey, model boundaries, risk controls, and evaluation plan—not only the conversational interface.
 
 ## Customer problem
 
@@ -32,9 +32,9 @@ I designed the coach around a multi-stage journey:
 - [Risk register](docs/risk-register.md)
 - [Evaluation plan](docs/evaluation-plan.md)
 
-## Provenance
+## Data scope
 
-I rebuilt my part of the case-competition concept as this public, deidentified repository. I excluded competition instructions, sponsor materials, recordings, original team slides, and any customer data.
+The repository contains a deidentified product design and no customer data, sponsor materials, recordings, or private source documents.
 
 ## Methods
 
