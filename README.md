@@ -8,6 +8,14 @@ First-time buyers often face fragmented program information, changing rates and 
 
 ## Design approach
 
+```mermaid
+flowchart LR
+    A[Establish affordable target range] --> B[Compare down-payment & savings scenarios]
+    B --> C[Monitor progress, update assumptions]
+    C --> D[Evaluate buy-now vs. wait]
+    D --> E[Prepare questions for mortgage professional]
+```
+
 The coach is designed around a multi-stage journey:
 
 1. establish an affordable target range;
