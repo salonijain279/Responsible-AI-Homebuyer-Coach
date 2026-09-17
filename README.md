@@ -6,9 +6,9 @@ This product concept examines what a responsible AI coach for first-time homebuy
 
 First-time buyers often face fragmented program information, changing rates and prices, hidden ownership costs, and uncertainty about how savings choices affect readiness. A useful AI experience must simplify those decisions while keeping assumptions, conflicts, and limitations visible.
 
-## What I designed
+## Design approach
 
-I designed the coach around a multi-stage journey:
+The coach is designed around a multi-stage journey:
 
 1. establish an affordable target range;
 2. compare down-payment and savings scenarios;
@@ -16,7 +16,7 @@ I designed the coach around a multi-stage journey:
 4. evaluate buy-now versus wait scenarios;
 5. prepare questions for a qualified mortgage professional.
 
-## How I approached trust
+## Approach to trust
 
 - transparent calculations and cited inputs;
 - confidence ranges rather than false precision;
